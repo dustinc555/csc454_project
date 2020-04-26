@@ -3,7 +3,7 @@ title: CSC 454 Project Proposal
 author: Dustin Cook **April 14th 2020**
 ---
 
-# Where data am I using?
+# What data am I using?
 
 https://www.kaggle.com/davidbnn92/weather-data-for-covid19-data-analysis
 
