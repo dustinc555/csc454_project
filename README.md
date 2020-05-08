@@ -23,7 +23,7 @@ The process for massaging the data is located in [Project.ipynb](Project.ipynb)
 Created features:
 
 - fog_rate | Numerical | Range [0, 1]
-- High_infection_rate | Categorical | Range [0, 1] Determined via equal frequency diskritization.
+- High_infection_rate | Categorical | Range [0, 1] Determined via equal frequency discritization.
 
 ## Early Visualizations
 
